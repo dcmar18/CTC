@@ -1,0 +1,30 @@
+
+/* header{
+  height: 4rem;
+} */
+.main{
+  float: left;
+margin-top: 15rem;
+}
+.other{
+  float: right;
+  margin-top: 15rem;
+}
+p{
+  color: blue;
+
+}
+iframe{
+  height:500px;
+}
+.carousel {
+
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 993;
+}
+.other2{
+
+  z-index:997;
+}
